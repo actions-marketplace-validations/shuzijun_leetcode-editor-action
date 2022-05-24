@@ -47,4 +47,6 @@ jobs:
 ````
 
 ## Effect
+<!--START_SECTION_FLAG-->
 ![Progress](https://img.shields.io/static/v1?logo=leetcode&label=Progress&message=175%2F2643&color=brightgreen) ![Easy](https://img.shields.io/static/v1?logo=leetcode&label=Easy&message=57&color=5CB85C) ![Medium](https://img.shields.io/static/v1?logo=leetcode&label=Medium&message=106&color=F0AD4E)  ![Hard](https://img.shields.io/static/v1?logo=leetcode&label=Hard&message=12&color=D9534F)
+<!--END_SECTION_FLAG-->
