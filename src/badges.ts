@@ -30,6 +30,6 @@ export const createBadges = async (): Promise<string> => {
 
     return `![Progress](https://img.shields.io/static/v1?logo=leetcode&label=Progress&message=${value.get('solvedTotal')}%2F${value.get('questionTotal')}&color=brightgreen)  ` +
         `![Easy](https://img.shields.io/static/v1?logo=leetcode&label=Easy&message=${value.get('easy')}&color=5CB85C)  ` +
-        `![Medium](https://img.shields.io/static/v1?logo=leetcode&label=Medium&message=${value.get('hard')}&color=F0AD4E)  ` +
-        `![Hard](https://img.shields.io/static/v1?logo=leetcode&label=Hard&message=${value.get('medium')}&color=D9534F)  `;
+        `![Medium](https://img.shields.io/static/v1?logo=leetcode&label=Medium&message=${value.get('medium')}&color=F0AD4E)  ` +
+        `![Hard](https://img.shields.io/static/v1?logo=leetcode&label=Hard&message=${value.get('hard')}&color=D9534F)  `;
 };
