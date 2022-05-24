@@ -40,7 +40,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: ./action/
+      - uses: shuzijun/leetcode-editor-action@v0.1.1
         with:
           STATISTICS_DIRECTORY: .idea/leetcode/
           LEETCODE_SITE: leetcode.cn
